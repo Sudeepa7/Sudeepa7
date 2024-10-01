@@ -2,13 +2,16 @@
 <h3 align="center">A passionate Network and Software Engineering Undergraduate.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/94145573/167327452-29b47dbe-1ea4-4f52-b116-435b08add748.gif">
 
+
 - 🔭 I’m currently Studying at **University Of Ruhuna**
 
 - 🌱 I’m currently learning **Devops,CCNA,AWS**
 
 - 👯 I’m from **Department of Electrical and Information Engineering**
 
-- 💬 Ask me about **MERN stack**
+- 👨‍💻 All of my projects are available at [https://shimmering-dieffenbachia-0bf1f4.netlify.app](https://shimmering-dieffenbachia-0bf1f4.netlify.app)
+
+- 💬 Ask me about **MERN stack , Networking**
 
 - 📫 How to reach me **sudeepanirmani77@gmail.com**
 
